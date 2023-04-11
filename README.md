@@ -2,7 +2,7 @@
 
 I am currently working as a Software Engineer in a global company, Turkey.
 
-- ⚙️ I use daily: Java stack technologies.
+- ⚙️ I am using almost every day : Java stack technologies.
 - 📫 Reach me: twitter.com/aytekinerlale (please don't hesitate to contact me about anything).
 
 
