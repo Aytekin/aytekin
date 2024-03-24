@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I am currently working as a Software Engineer in a global company, Turkey.
+Who wakes up everyday as a junior.
 
-- ⚙️ I am using almost every day : Java stack technologies.
-- 📫 Reach me: twitter.com/aytekinerlale (please don't hesitate to contact me about anything).
+📫 Reach me: twitter.com/aytekinerlale (please don't hesitate to contact me about anything).
 
 
 <!--
